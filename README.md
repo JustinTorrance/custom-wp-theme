@@ -13,11 +13,10 @@ To use:
 
 <img width="1434" alt="Screen Shot 2020-07-17 at 10 20 16 AM" src="https://user-images.githubusercontent.com/33379226/87809097-0791fe00-c818-11ea-907f-c2a18e965391.png">
 
+### Search functionality  
   
 <img width="1439" alt="Screen Shot 2020-07-17 at 10 21 09 AM" src="https://user-images.githubusercontent.com/33379226/87809091-0660d100-c818-11ea-96c7-93d93e79fe85.png">
-
-
-### Search functionality  
+ 
 
 <img width="1440" alt="Screen Shot 2020-07-17 at 10 22 08 AM" src="https://user-images.githubusercontent.com/33379226/87809085-0365e080-c818-11ea-836b-a7a84892a128.png">
 
